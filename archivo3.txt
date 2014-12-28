@@ -1,7 +1,7 @@
 un nuevo fichero
 
 Línea uno en git
-
+otra línea de código
 
 Otra línea
 
