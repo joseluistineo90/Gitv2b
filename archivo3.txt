@@ -2,6 +2,6 @@ un nuevo fichero
 
 Línea uno en git
 otra línea de código
-
+mi segundo commit que no pude ver en local
 Otra línea
 
